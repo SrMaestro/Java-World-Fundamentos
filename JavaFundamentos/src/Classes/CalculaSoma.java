@@ -1,6 +1,6 @@
 package Classes;
 
-public class Calcula {
+public class CalculaSoma {
 
     private int n1;
     private int n2 ;
